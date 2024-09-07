@@ -1,0 +1,6 @@
+numpy
+pandas 
+open-cv
+matplotlib
+torchvision
+albumentations
