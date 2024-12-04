@@ -4,3 +4,4 @@ open-cv
 matplotlib
 torchvision
 albumentations
+ultralytics

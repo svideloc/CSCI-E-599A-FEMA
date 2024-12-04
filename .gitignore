@@ -1,1 +1,5 @@
 *__pycache__/
+object_detection/yolo_utils
+object_detection/yolov8
+object_detection/yolov10
+object_detection/yolov11
