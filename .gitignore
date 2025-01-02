@@ -1,5 +1,8 @@
 *__pycache__/
+*.ipynb_checkpoints
+*.jpg
 object_detection/yolo_utils
 object_detection/yolov8
 object_detection/yolov10
 object_detection/yolov11
+object_detection/yolov8again
