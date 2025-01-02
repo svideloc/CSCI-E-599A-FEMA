@@ -1,0 +1,16 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# COCO8 dataset (first 8 images from COCO train2017) by Ultralytics
+# Documentation: https://docs.ultralytics.com/datasets/detect/coco8/
+
+# train and val dataset locations
+path: /home/sam/data/ladi/dataset_for_model2 # dataset root dir
+train: train # train images (relative to 'path') 
+val: val # val images (relative to 'path') 
+
+# Classes
+names:
+  0: Affected Buildings
+  1: Major Damage
+
+# Download script/URL (
+download: https://github.com/ultralytics/assets/releases/download/v0.0.0/coco11.zip
